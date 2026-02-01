@@ -1,6 +1,5 @@
 Publication can be found below: 
-
- https://doi.org/10.3390/s26030926
+[https://www.mdpi.com/1424-8220/26/3/926](https://www.mdpi.com/1424-8220/26/3/926)
 
 This repository provides a comprehensive comparison of various RF and optical modulation schemes across three key performance indicators: Bit Error Rate (BER), Peak-to-Average Power Ratio (PAPR), and Spectral Efficiency (SE).
 
