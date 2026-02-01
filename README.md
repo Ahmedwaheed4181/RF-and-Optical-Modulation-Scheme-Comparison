@@ -1,17 +1,27 @@
-# RF-and-Optical-Modulation-Scheme-Comparison
-The comparison of following  RF and Optical Modulation Scheme has been performed: 
-RF Modulation Schemes:
-1.OFDM 
-2. OFDM-IM 
-3.OCDM 
-4.SCMA 
-5.OTFS  
-Optical Modulation Schemes:
-6. O-OFDM  
-7. O-OTFS 
-8. O-OCDM 
-9. O-OFDM-IM 
-10. O-SCMA 
+Publication can be found below: 
 
-The performance of MS has been evaluated based on 3 KPIS (BER, PAPR and SE).
+ https://doi.org/10.3390/s26030926
+
+This repository provides a comprehensive comparison of various RF and optical modulation schemes across three key performance indicators: Bit Error Rate (BER), Peak-to-Average Power Ratio (PAPR), and Spectral Efficiency (SE).
+
+📊 Modulation Schemes Compared
+RF Modulation Schemes:
+OFDM - Orthogonal Frequency Division Multiplexing
+OFDM-IM - OFDM with Index Modulation
+OCDM - Orthogonal Chirp Division Multiplexing
+SCMA - Sparse Code Multiple Access
+OTFS - Orthogonal Time Frequency Space
+
+Optical Modulation Schemes:
+O-OFDM - Optical OFDM
+O-OTFS - Optical OTFS
+O-OCDM - Optical OCDM
+O-OFDM-IM - Optical OFDM with Index Modulation
+O-SCMA - Optical SCMA
+
+📈 Key Performance Indicators (KPIs)
+The performance evaluation is based on three critical metrics:
+Bit Error Rate (BER): Probability of error in the received bits
+Peak-to-Average Power Ratio (PAPR): Ratio of peak power to average power
+Spectral Efficiency (SE): Data rate transmitted over a given bandwidth
 
